@@ -1,1 +1,6 @@
--Soft Skills
+O que eu vou aprender na Trybe:
+
+- Unix
+- Bash
+- Git
+- Soft Skills
